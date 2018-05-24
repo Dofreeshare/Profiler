@@ -1,0 +1,4 @@
+*.txt
+inputs/
+*.db
+*.log
