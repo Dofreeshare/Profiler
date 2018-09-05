@@ -2,3 +2,6 @@
 inputs/
 *.db
 *.log
+snaps/
+*.xls
+*.log
